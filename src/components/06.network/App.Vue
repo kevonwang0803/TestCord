@@ -21,7 +21,7 @@ export default {
   // 2. 注册组件
   components: {
     GetInfo,
-    PostInfo,
+    PostInfo, 
   },
 }
 </script>
